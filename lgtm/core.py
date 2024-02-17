@@ -7,4 +7,4 @@ def cli():
     
     
 def lgtm():
-    print('XYZ')
+    pass
